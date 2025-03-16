@@ -20,3 +20,6 @@ CAT_NAME varchar2(50),
 CAT_COLOR varchar2(20)
 );
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
